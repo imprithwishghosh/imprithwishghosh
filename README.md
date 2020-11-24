@@ -1,4 +1,4 @@
-### Am PrithishG👋
+### Hello there ! Am PrithishG👋 Welcome 👋
 
 [![HitCount](http://hits.dwyl.com/imprithwishghosh/imprithwishghosh.svg)](http://hits.dwyl.com/imprithwishghosh/imprithwishghosh)
 
@@ -52,9 +52,9 @@ I strongly belive we the professionals students of technology need to learn and 
 
 ### 💪💪💪💪Accomplishments :💪💪💪💪
 
-- SRM CARE LEVEL 3 CPP (COMPLETED LEVEL 1,LEVE2,LEVEL3 CPP LANGUAGE LABS MORE THAN 100+ QUESTIONS)---->UNIVERSITY
-- MAJULAH GOOGLE CLOUD PLATFORM WINNER (SEASON 1 + SEASON 2=COMPLETED 15+QUETS)------------>GOOGLE CLOUD SINGAPORE
-- GOOGLE CLOUD PLATFORM QUEST LEADER (COMPLETED MORE THAN 20+QUESTS WITH 100LABS ON GOOGLE CLOUD PLATFORM)----->GOOGLE CLOUD INDIA
-- GOOGLE CLOUD DEV-JAM'20 (TOP 20 PERFORMER GCP COMPETITION)---> GOOGLE CLOUD INDIA/TECHGIG
-- 100X QWIKLABS GOOGLE CLOUD VERIFIED BADGES [qwiklabs.com](https://www.qwiklabs.com/public_profiles/78282992-f53a-4ae3-aae8-c594e566f6cf)
-- GOOGLE CLOUDREADY FACILITATION PROGRAM'20 (COMPLETED 18+QUESTS & SKILL BADGES ON GOOGLE CLOUD PLATFORM)--->GOOGLE CLOUD INDIA
+- srm care level 3 cpp (completed level 1,leve2,level3 cpp language labs more than 100+ questions)->university
+- majulah google cloud platform winner (season 1 + season 2=completed 15+quets)->google cloud singapore
+- google cloud platform quest leader (completed more than 20+quests with 100labs on google cloud platform)->google cloud india
+- google cloud dev-jam'20 (top 20 performer gcp competition)-> google cloud india/techgig
+- 100x qwiklabs google cloud verified badges [qwiklabs.com](https://www.qwiklabs.com/public_profiles/78282992-f53a-4ae3-aae8-c594e566f6cf)
+- google cloudready facilitation program'20 (completed 18+quests & skill badges on google cloud platform)->google cloud india
