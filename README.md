@@ -2,12 +2,13 @@
 
 [![HitCount](http://hits.dwyl.com/imprithwishghosh/imprithwishghosh.svg)](http://hits.dwyl.com/imprithwishghosh/imprithwishghosh)
 
-Gist About me
+Gist About me:
 
 - 🎤 I am a passonate Product SECURITY and CLOUD , DEVELOPMENT
 - 🛸 Learning everyday, currently preparing for CEHV10
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
 - 📬 open to work || team player || determined
+- ⛹️‍ Currently facilitator + Volunteer @ GDG Cloud Chennai
 - 💬 Actively writing tech blogs [Check it Out!](https://medium.com/@prithishghosh)
 - 📺 Share things I know , always helping indivisuals.
 - 📬 How to reach me:<a href="mailto:prithishghosh619@gmail.com">Let's get in touch!</a>
@@ -15,16 +16,19 @@ Gist About me
 - 🧗🏾‍♀️ I try to: Go beyond and push the bounds 
 
 ### other places you can find me 
+
 💬 [Linkedin.com](https://www.linkedin.com/in/prithish-ghosh-097207163)
 🐣 [See my Tweeter](https://twitter.com/PrithishGhosh5)
 🏀 [see my Instagram](https://www.instagram.com/dafoxface)
 
 
-###
+### 
 
 I strongly belive we the professionals students of technology need to learn and innovate. There is constant change in the technologies in the tech market where we need to update ourselves with. The only thing that is constant is change. Talking about me, I would call myself an intersection of developer and researcher. I like cloud development with GCP/AWS and sometimes web dev. I love trying out new technologies and update with modern tools helping our lives more easier. I would like to join any reputed company for future.
 
 ### Projects :
+
+
 - sample functional calculator [github.com](https://imprithwishghosh.github.io/JS-calculator/)
 - Neomorphism UI icons for my social media [github.com](https://imprithwishghosh.github.io/Neomorphism-UI-/)
 - Code to login UI-1 [github.com](https://imprithwishghosh.github.io/UI-TO-CODE/page1.html)
@@ -33,7 +37,7 @@ I strongly belive we the professionals students of technology need to learn and 
 - Sample Resume [github.com](https://imprithwishghosh.github.io/web-resume-165/)
 - SRM Bazaar-Universiry 7th sem mini Project [github.com](link will be added) 
 
-### ⚡⚡⚡⚡⚡Certifications : I have completed 10x Google Cloud Specializations.(Cloud is all we need) ⚡⚡⚡⚡
+### ⚡Certifications : I have completed 10x Google Cloud Specializations.(Cloud is all we need)⚡
 
 - Security in Google Cloud Platform [coursera.org](https://coursera.org/share/f7203f91419e55c57ebe254fa0e88b9e)
 - Machine Learning with TensorFlow on Google Cloud Platform [coursera.org](https://coursera.org/share/949891095046e5dd85bdcd1a6228adea)
