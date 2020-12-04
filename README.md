@@ -18,21 +18,21 @@ Gist About me:
 ### other places you can find me ::
 
 <a href="https://discord.gg/incognito">
-  <img align="left" alt="prithish's Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  <img align="left" alt="prithish's Discord Server" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <a href="https://www.linkedin.com/in/prithish-ghosh-097207163/">
-  <img align="left" alt="prithish's Linkdein" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="prithish's Linkdein" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/dafoxface">
-  <img align="left" alt="prithish's Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="prithish's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <a href="https://twitter.com/PrithishGhosh5">
-  <img align="left" alt="prithish's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="prithish's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <br/>
 
-###
+### about me :
 
 I strongly belive we the professionals students of technology need to learn and innovate. There is constant change in the technologies in the tech market where we need to update ourselves with. The only thing that is constant is change. Talking about me, I would call myself an intersection of developer and researcher. I like cloud development with GCP/AWS and sometimes web dev. I love trying out new technologies and update with modern tools helping our lives more easier. I would like to join any reputed company for future.
 
@@ -43,7 +43,7 @@ I strongly belive we the professionals students of technology need to learn and 
 - Neomorphism UI icons for my social media [github.com](https://imprithwishghosh.github.io/Neomorphism-UI-/)
 - Code to login UI-1 [github.com](https://imprithwishghosh.github.io/UI-TO-CODE/page1.html)
 - Code to login UI-2 [github.com](https://imprithwishghosh.github.io/UI-TO-CODE/page2.html)
-- Online banking system (php,dbms,mysql) [github.com] (https://github.com/imprithwishghosh/online-banking-system)
+- Online banking system (php,dbms,mysql) [github.com](https://github.com/imprithwishghosh/online-banking-system)
 - Sample Resume [github.com](https://imprithwishghosh.github.io/web-resume-165/)
 - SRM Bazaar-Universiry 7th sem mini Project [github.com](link will be added) 
 
