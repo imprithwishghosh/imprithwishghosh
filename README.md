@@ -18,7 +18,9 @@ Gist About me:
 ### other places you can find me 
 
 💬 [Linkedin.com](https://www.linkedin.com/in/prithish-ghosh-097207163)
-🐣 [See my Tweeter](https://twitter.com/PrithishGhosh5)
+<a href="https://twitter.com/ohidurbappy">
+  <img align="left" alt="Ohidur Rahman Bappy's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a> [See my Tweeter](https://twitter.com/PrithishGhosh5)
 🏀 [see my Instagram](https://www.instagram.com/dafoxface)
 
 
