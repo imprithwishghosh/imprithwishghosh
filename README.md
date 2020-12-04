@@ -17,11 +17,19 @@ Gist About me:
 
 ### other places you can find me 
 
-💬 [Linkedin.com](https://www.linkedin.com/in/prithish-ghosh-097207163)
-<a href="https://twitter.com/ohidurbappy">
-  <img align="left" alt="Ohidur Rahman Bappy's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a> [See my Tweeter](https://twitter.com/PrithishGhosh5)
-🏀 [see my Instagram](https://www.instagram.com/dafoxface)
+<a href="https://discord.gg/incognito">
+  <img align="left" alt="prithish's Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
+<a href="https://www.linkedin.com/in/prithish-ghosh-097207163/">
+  <img align="left" alt="prithish's Linkdein" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/dafoxface">
+  <img align="left" alt="prithish's Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<a href="https://twitter.com/PrithishGhosh5">
+  <img align="left" alt="prithish's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 
 
 ### 
