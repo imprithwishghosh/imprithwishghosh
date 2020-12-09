@@ -4,7 +4,7 @@
 
 Gist About me:
 
-- 🎤 I am a passonate Product SECURITY and CLOUD , DEVELOPMENT
+- 🎤 I am a passonate about SECURITY and CLOUD DEVELOPMENT
 - 🛸 Learning everyday, currently preparing for CEHV10
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
 - 📬 open to work || team player || determined
@@ -12,7 +12,7 @@ Gist About me:
 - 💬 Actively writing tech blogs [Check it Out!](https://medium.com/@prithishghosh)
 - 📺 Share things I know , always helping indivisuals.
 - 📬 How to reach me:<a href="mailto:prithishghosh619@gmail.com">Let's get in touch!</a>
-- ⛹️‍Frequently active for call of duty
+- ⛹️‍Frequently active for call of duty (connect me : Cringet)
 - 🧗🏾‍♀️ I try to: Go beyond and push the bounds 
 
 ### other places you can find me ::
@@ -28,7 +28,7 @@ Gist About me:
 </a>
 
 <a href="https://twitter.com/PrithishGhosh5">
-  <img align="left" alt="prithish's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="prithish's Twitter"  width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <br/>
 
