@@ -1,4 +1,4 @@
-### Hello there ! Am PrithishG👋 Welcome 👋
+### Hello there ! Am Prithish 👋 Welcome 👋
 
 [![HitCount](http://hits.dwyl.com/imprithwishghosh/imprithwishghosh.svg)](http://hits.dwyl.com/imprithwishghosh/imprithwishghosh)
 
@@ -15,20 +15,21 @@ Gist About me:
 - ⛹️‍Frequently active for call of duty (connect me : Cringet)
 - 🧗🏾‍♀️ I try to: Go beyond and push the bounds 
 
+
 ### other places you can find me ::
 
 <a href="https://discord.gg/incognito">
-  <img align="left" alt="prithish's Discord Server" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  <img align="left" alt="prithish's Discord Server" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <a href="https://www.linkedin.com/in/prithish-ghosh-097207163/">
-  <img align="left" alt="prithish's Linkdein" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="prithish's Linkdein" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/dafoxface">
-  <img align="left" alt="prithish's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="prithish's Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <a href="https://twitter.com/PrithishGhosh5">
-  <img align="left" alt="prithish's Twitter"  width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="prithish's Twitter"  width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <br/>
 
@@ -36,12 +37,55 @@ Gist About me:
 
 I strongly belive we the professionals students of technology need to learn and innovate. There is constant change in the technologies in the tech market where we need to update ourselves with. The only thing that is constant is change. Talking about me, I would call myself an intersection of developer and researcher. I like cloud development with GCP/AWS and sometimes web dev. I love trying out new technologies and update with modern tools helping our lives more easier. I would like to join any reputed company for future.
 
-### Check out my websites :
- GitShowcase :[Gitshowcase](https://www.gitshowcase.com/imprithwishghosh)
- PERSONAL WEBSITE : [LINK](https://imprithwishghosh.github.io/Portfolio/)
+### languages & Tools I know :
+<a href="https://code.visualstudio.com/">
+  <img align="left" alt="Visual Studio Code" width="36px" src="https://simpleicons.org/icons/visualstudiocode.svg" />
+</a>
+
+<a href="https://html.com/">
+  <img align="left" alt="html5" width="36px" src="https://simpleicons.org/icons/html5.svg" />
+</a>
+
+<a href="http://css3.com/">
+  <img align="left" alt="CSS" width="36px" src="https://simpleicons.org/icons/css3.svg" />
+  </a>
+  
+ <a href="https://netbeans.org/">
+  <img align="left" alt="netbeans" width="36px" src="https://simpleicons.org/icons/apachenetbeanside.svg" />
+  </a>
+  
+  <a href="https://www.javascript.com/">
+  <img align="left" alt="javascript" width="36px" src="https://simpleicons.org/icons/javascript.svg" />
+  </a>
+ 
+ <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+  <img align="left" alt="c" width="36px" src="https://simpleicons.org/icons/c.svg" />
+  </a>
+
+<a href="https://en.wikipedia.org/wiki/C%2B%2B">
+  <img align="left" alt="c++" width="36px" src="https://simpleicons.org/icons/cplusplus.svg" />
+  </a>
+
+<a href="https://www.mysql.com/">
+  <img align="left" alt="sql" width="36px" src="https://simpleicons.org/icons/mysql.svg" />
+  </a>
+  
+<a href="https://www.apachefriends.org/index.html">
+  <img align="left" alt="xampp" width="36px" src="https://simpleicons.org/icons/xampp.svg" />
+  </a>
+  
+<a href="https://console.cloud.google.com/?_ga=2.41384354.1698381297.1613396291-1761391994.1606036037&_gac=1.25014600.1613396291.Cj0KCQiA1KiBBhCcARIsAPWqoSrrlAxLfo7U7lgWuqslWnFZ5MDCeNoM5A8RjfTD7Xt0h9NWdWZEjQ8aAoWgEALw_wcB">
+  <img align="left" alt="xampp" width="36px" src="https://simpleicons.org/icons/googlecloud.svg" />
+  </a>  
+  
+ <a href="https://aws.amazon.com/free/?trk=ps_a134p000003yhlXAAQ&trkCampaign=acq_paid_search_brand&sc_channel=ps&sc_campaign=acquisition_IN&sc_publisher=google&sc_category=core-main&sc_country=IN&sc_geo=APAC&sc_outcome=Acquisition&sc_detail=aws&sc_content=Brand_Core_aws_e&sc_matchtype=e&sc_segment=453325184782&sc_medium=ACQ-P|PS-GO|Brand|Desktop|SU|Core-Main|Core|IN|EN|Text&s_kwcid=AL!4422!3!453325184782!e!!g!!aws&ef_id=Cj0KCQiA1KiBBhCcARIsAPWqoSpzMySrEWbj_PVSAo6hc074k_ZRi0SpbKqVM4r3wg7vD5NooLGsZEoaAqaaEALw_wcB:G:s&s_kwcid=AL!4422!3!453325184782!e!!g!!aws&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc">
+  <img align="left" alt="aws" width="36px" src="https://simpleicons.org/icons/amazonaws.svg" />
+  </a>
+  <br />
+  
+### Check out my website : [LINK](https://imprithwishghosh.github.io/Portfolio/)
 
 ### Projects :
-
 
 - sample functional calculator [github.com](https://imprithwishghosh.github.io/JS-calculator/)
 - Neomorphism UI icons for my social media [github.com](https://imprithwishghosh.github.io/Neomorphism-UI-/)
