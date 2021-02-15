@@ -38,17 +38,22 @@ I strongly belive we the professionals students of technology need to learn and 
 
 ### Check out my websites :
  GitShowcase :[Gitshowcase](https://www.gitshowcase.com/imprithwishghosh)
+ PERSONAL WEBSITE : [LINK](https://imprithwishghosh.github.io/Portfolio/)
 
 ### Projects :
 
 
 - sample functional calculator [github.com](https://imprithwishghosh.github.io/JS-calculator/)
 - Neomorphism UI icons for my social media [github.com](https://imprithwishghosh.github.io/Neomorphism-UI-/)
+- My personal website[github.com](https://imprithwishghosh.github.io/Portfolio/)
 - Code to login UI-1 [github.com](https://imprithwishghosh.github.io/UI-TO-CODE/page1.html)
 - Code to login UI-2 [github.com](https://imprithwishghosh.github.io/UI-TO-CODE/page2.html)
 - Online banking system (php,dbms,mysql) [github.com](https://github.com/imprithwishghosh/online-banking-system)
+- University international conference website make-1 [github.com](https://imprithwishghosh.github.io/project2/)
+- Minor Project - Detecting app's security vulnerabilities on Google Cloud[github.com](https://tinyurl.com/y3vb4vos)
+- The Bluebox device -MDD project[github.com](https://tinyurl.com/yj428yrk)
 - Sample Resume [github.com](https://imprithwishghosh.github.io/web-resume-165/)
-- SRM Bazaar-Universiry 7th sem mini Project [github.com](link will be added) 
+- SRM Bazaar-Universiry 7th sem mini Project [github.com](https://tinyurl.com/3xpnthm8) 
 
 ### ⚡Certifications : I have completed 10x Google Cloud Specializations.(Cloud is all we need)⚡
 
