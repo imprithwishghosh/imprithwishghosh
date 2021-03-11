@@ -85,7 +85,7 @@ I strongly belive we the professionals students of technology need to learn and 
   
  <a href="https://aws.amazon.com/free/?trk=ps_a134p000003yhlXAAQ&trkCampaign=acq_paid_search_brand&sc_channel=ps&sc_campaign=acquisition_IN&sc_publisher=google&sc_category=core-main&sc_country=IN&sc_geo=APAC&sc_outcome=Acquisition&sc_detail=aws&sc_content=Brand_Core_aws_e&sc_matchtype=e&sc_segment=453325184782&sc_medium=ACQ-P|PS-GO|Brand|Desktop|SU|Core-Main|Core|IN|EN|Text&s_kwcid=AL!4422!3!453325184782!e!!g!!aws&ef_id=Cj0KCQiA1KiBBhCcARIsAPWqoSpzMySrEWbj_PVSAo6hc074k_ZRi0SpbKqVM4r3wg7vD5NooLGsZEoaAqaaEALw_wcB:G:s&s_kwcid=AL!4422!3!453325184782!e!!g!!aws&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc">
   <img align="left" alt="aws" width="36px" src="https://simpleicons.org/icons/amazonaws.svg" />
-  </a> 
+  </a> <br/><br/>
 ### Check out my website : 
 
 <a href="https://imprithwishghosh.github.io/Portfolio/">
