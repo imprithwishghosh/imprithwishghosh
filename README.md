@@ -1,6 +1,6 @@
 ### Hello there ! Am Prithish 👋 Welcome 👋
 
-[![HitCount](http://hits.dwyl.com/imprithwishghosh/imprithwishghosh.svg)](http://hits.dwyl.com/imprithwishghosh/imprithwishghosh)
+![alt text](https://images.unsplash.com/photo-1568144628871-ccbb00fc297c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80)
 
 Gist About me:
 
@@ -33,9 +33,7 @@ Gist About me:
 <a href="https://twitter.com/PrithishGhosh5">
   <img align="left" alt="prithish's Twitter"  width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-  <a href="https://about.me/prithish.g">
-  <img align="left" alt="aboutme" width="36px" src="https://www.flaticon.com/svg/vstatic/svg/2/2251.svg?token=exp=1613465927~hmac=be6d33f89a0142729608750cec040d72" />
-  </a>
+
 <br/>
 
 ### about me :
