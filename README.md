@@ -87,9 +87,7 @@ I strongly belive we the professionals students of technology need to learn and 
   
   
 ### my website :
-<a href="https://imprithishg.netlify.app/">
-  <img align="left" alt="website" width="46px" src="https://www.flaticon.com/premium-icon/icons/svg/3308/3308395.svg" />
-  </a><br/>
+[![Website](https://img.shields.io/website?label=My_website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://imprithishg.netlify.app/)<br/>
 
 ### Projects :
 
