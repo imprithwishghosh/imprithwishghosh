@@ -102,7 +102,7 @@ I strongly belive we the professionals students of technology need to learn and 
 - The Bluebox device -MDD project [github.com](https://tinyurl.com/yj428yrk)
 - Sample Resume [github.com](https://imprithwishghosh.github.io/web-resume-165/)
 - SRM Bazaar-Universiry 7th sem mini Project [github.com](https://tinyurl.com/3xpnthm8) 
-
+- Final_Year_Major_Project [Encrypted Traffic analysis with entropy evaluation and Neural Networks](https://tinyurl.com/yw3vaepp)
 ### ⚡Certifications : I have completed 10x Google Cloud Specializations.(Cloud is all we need)⚡
 
 - Security in Google Cloud Platform [coursera.org](https://coursera.org/share/f7203f91419e55c57ebe254fa0e88b9e)
