@@ -11,6 +11,7 @@ Gist About me:
 - ⛹️‍ Currently facilitator + Volunteer @ GDG Cloud Chennai
 - 💬 Actively writing tech blogs [Check it Out!](https://medium.com/@prithishghosh)
 - 📺 Share things I know , always helping indivisuals.
+- CodeChef 2🌟 Competitive Programming [CodeChef](https://www.codechef.com/users/prithishghosh6)
 - 📬 How to reach me:<a href="mailto:prithishghosh619@gmail.com">Let's get in touch!</a>
 - ⛹️‍Frequently active for call of duty (connect me : Cringet)
 - 🧗🏾‍♀️ I try to: Go beyond and push the bounds 
