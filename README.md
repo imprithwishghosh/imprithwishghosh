@@ -1,4 +1,4 @@
-### Hello there ! Am Prithish 👋 Welcome 👋
+### Hello there ! Am Prithish <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 ![alt text](https://images.unsplash.com/photo-1568144628871-ccbb00fc297c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80)<br>
 ![](https://komarev.com/ghpvc/?username=imprithwishghosh)
@@ -25,14 +25,18 @@ Gist About me:
 <a href="https://www.linkedin.com/in/prithish-ghosh-097207163/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@prithishghosh" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://www.instagram.com/why_not_prithwish/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:prithishghosh619@gmail.com">
+<img align="left" alt="akd's gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a></p>
+
+### coding Profiles: 
+<p>
 <a href="https://www.hackerrank.com/prithishghosh619" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-<a href="https://www.qwiklabs.com/public_profiles/78282992-f53a-4ae3-aae8-c594e566f6cf">
+  <a href="https://www.qwiklabs.com/public_profiles/78282992-f53a-4ae3-aae8-c594e566f6cf">
 <img align="left" alt="akd's Qwiklab" src="https://img.shields.io/badge/Qwiklabs-F5CD0E?style=for-the-badge&logo=Qwiklabs&logoColor=black" /></a>
 <a href="https://www.codechef.com/users/prithishghosh6">
 <img align="left" alt="akd's codechef" src="https://img.shields.io/badge/Codechef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
-<a href="mailto:prithishghosh619@gmail.com">
-<img align="left" alt="akd's gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a></p>
-<br><br>
+  </p>
+
 
 ### about me :
 
@@ -43,6 +47,7 @@ I strongly belive we the professionals students of technology need to learn and 
 
 ### my website :
 [![Website](https://img.shields.io/website?label=Click->me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://imprithishg.netlify.app/)<br/>
+
 
 ### Projects :
 
@@ -58,6 +63,8 @@ I strongly belive we the professionals students of technology need to learn and 
 - Sample Resume [github.com](https://imprithwishghosh.github.io/web-resume-165/)
 - SRM Bazaar-Universiry 7th sem mini Project [github.com](https://tinyurl.com/3xpnthm8) 
 - Final_Year_Major_Project [Encrypted Traffic analysis with entropy evaluation and Neural Networks](https://tinyurl.com/yw3vaepp)
+
+
 
 
 ### ⚡Certifications : I have completed 10x Google Cloud Specializations.(Cloud is all we need)⚡
