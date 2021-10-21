@@ -1,7 +1,7 @@
 Hello there ! Am Prithish <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 ![](https://komarev.com/ghpvc/?username=imprithwishghosh)
 ----------------------------------------------------------
-Codechef 3🌟 Competitive Programmer || Cloud facilitator @gdgcloudchennai || Udacity Ml -AWS scholar || Facebook Pytorch scholar || 100x Gcp Badges || SWE grad
+SOFTWARE DEVELOPMENT ENGINEER @IOPEXTECH  || Codechef 3🌟 Competitive Programmer || Cloud facilitator @gdgcloudchennai || Udacity Ml -AWS scholar || Facebook Pytorch scholar || 100x Gcp Badges || SWE grad
 ----------------------------------------------------------
 <div align="center">
 <img src="https://raw.githubusercontent.com/RaghavK16/RaghavK16/master/octo.gif" alt="GitHub Logo" width="200" height="200" />
