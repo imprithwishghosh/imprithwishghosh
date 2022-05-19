@@ -41,7 +41,7 @@ my website :
 --------------------------
 [![Website](https://img.shields.io/website?label=Click->me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://imprithishg.netlify.app/)<br/>
 
-Projects :
+University_Projects :
 ----------------------------------------
 
 - sample functional calculator [View_Project](https://imprithwishghosh.github.io/JS-calculator/)
@@ -56,6 +56,10 @@ Projects :
 - Sample Resume [View_Project](https://imprithwishghosh.github.io/web-resume-165/)
 - SRM Bazaar-Universiry 7th sem mini Project [View_Project](https://tinyurl.com/3xpnthm8) 
 - Final_Year_Major_Project [Encrypted Traffic analysis with entropy evaluation and Neural Networks](https://tinyurl.com/yw3vaepp)
+
+#Organizational_Projects :
+-----------------------------------------------------
+- Climate Change API - An api which will fetch climate news from various websites .[Link](https://github.com/imprithwishghosh/Climate-change-api)
 
 ⚡Certifications : I have completed 10x Google Cloud Specializations⚡
 ----------------------------------------------------------------------------------------
