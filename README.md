@@ -56,6 +56,7 @@ University_Projects :
 - Sample Resume [View_Project](https://imprithwishghosh.github.io/web-resume-165/)
 - SRM Bazaar-Universiry 7th sem mini Project [View_Project](https://tinyurl.com/3xpnthm8) 
 - Final_Year_Major_Project [Encrypted Traffic analysis with entropy evaluation and Neural Networks](https://tinyurl.com/yw3vaepp)
+- Deploying django application into aws using docker , jenkins CI/CD Pipeline
 
 #Organizational_Projects :
 -----------------------------------------------------
