@@ -1,7 +1,7 @@
 Hello there ! Am Prithish <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 ![](https://komarev.com/ghpvc/?username=imprithwishghosh)
 ----------------------------------------------------------
-SOFTWARE DEVELOPMENT ENGINEER @IOPEXTECH  || Codechef 3🌟 Competitive Programmer || Cloud facilitator @gdgcloudchennai || Udacity Ml -AWS scholar || Facebook Pytorch scholar || 150x Gcp Badges || SWE grad
+SOFTWARE DEVELOPMENT ENGINEER @IOPEXTECH  || DevOps Engineer || Cloud facilitator @gdgcloudchennai || Udacity Ml -AWS scholar || Facebook Pytorch scholar || 150x Gcp Badges || SWE grad
 ----------------------------------------------------------
 <div align="center">
 <img src="https://raw.githubusercontent.com/RaghavK16/RaghavK16/master/octo.gif" alt="GitHub Logo" width="200" height="200" />
@@ -56,7 +56,11 @@ University_Projects :
 - Sample Resume [View_Project](https://imprithwishghosh.github.io/web-resume-165/)
 - SRM Bazaar-Universiry 7th sem mini Project [View_Project](https://tinyurl.com/3xpnthm8) 
 - Final_Year_Major_Project [Encrypted Traffic analysis with entropy evaluation and Neural Networks](https://tinyurl.com/yw3vaepp)
+
+#DevOps_Projects : 
+---------------------------------------------
 - Deploying django application into aws using docker , jenkins CI/CD Pipeline [link](https://github.com/imprithwishghosh/resume/blob/master/Devops%20Project%201%20_.pdf)
+- 
 
 #Organizational_Projects :
 -----------------------------------------------------
