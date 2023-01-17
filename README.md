@@ -59,8 +59,7 @@ University_Projects :
 
 #DevOps_Projects : 
 ---------------------------------------------
-- Deploying django application into aws using docker , jenkins CI/CD Pipeline [link](https://github.com/imprithwishghosh/resume/blob/master/Devops%20Project%201%20_.pdf)
-- 
+- Automated CI/CD Pipeline for Django Web Application using AWS,Docker,Jenkins [link](https://github.com/imprithwishghosh/resume/blob/master/Devops%20Project%201%20_.pdf)
 
 #Organizational_Projects :
 -----------------------------------------------------
