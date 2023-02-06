@@ -41,6 +41,14 @@ my website :
 --------------------------
 [![Website](https://img.shields.io/website?label=Click->me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://imprithishg.netlify.app/)<br/>
 
+#DevOps_Projects : 
+---------------------------------------------
+- Automated CI/CD Pipeline for Django Web Application using AWS,Docker,Jenkins [link](https://github.com/imprithwishghosh/resume/blob/master/Devops%20Project%201%20_.pdf)
+
+#Organizational_Projects :
+-----------------------------------------------------
+- Climate Change API - An api which will fetch climate news from various websites .[Link](https://github.com/imprithwishghosh/Climate-change-api)
+
 University_Projects :
 ----------------------------------------
 
@@ -56,14 +64,6 @@ University_Projects :
 - Sample Resume [View_Project](https://imprithwishghosh.github.io/web-resume-165/)
 - SRM Bazaar-Universiry 7th sem mini Project [View_Project](https://tinyurl.com/3xpnthm8) 
 - Final_Year_Major_Project [Encrypted Traffic analysis with entropy evaluation and Neural Networks](https://tinyurl.com/yw3vaepp)
-
-#DevOps_Projects : 
----------------------------------------------
-- Automated CI/CD Pipeline for Django Web Application using AWS,Docker,Jenkins [link](https://github.com/imprithwishghosh/resume/blob/master/Devops%20Project%201%20_.pdf)
-
-#Organizational_Projects :
------------------------------------------------------
-- Climate Change API - An api which will fetch climate news from various websites .[Link](https://github.com/imprithwishghosh/Climate-change-api)
 
 ⚡Certifications : I have completed 10x Google Cloud Specializations⚡
 ----------------------------------------------------------------------------------------
