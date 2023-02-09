@@ -43,7 +43,9 @@ my website :
 
 #DevOps_Projects : 
 ---------------------------------------------
-- Automated CI/CD Pipeline for Django Web Application using AWS,Docker,Jenkins [link](https://github.com/imprithwishghosh/resume/blob/master/Devops%20Project%201%20_.pdf)
+- DEPLOYING. DJANGO TODO APPLICATION INTO AWS USING DOCKER IMAGE & AUTOMATE CI / CD PIPELINE [link](https://github.com/imprithwishghosh/resume/blob/master/Devops%20Project%201%20_.pdf)
+- AN ANSIBLE MASTER NODE MODULE AUTOMATES , CREATE USER & FILES INTO VARIOUS WORKER NODE USING ANSIBLE PLAYBOOK YAML SCRIPT
+[LINK](https://github.com/imprithwishghosh/resume/blob/master/ansible%20.pdf)
 
 #Organizational_Projects :
 -----------------------------------------------------
