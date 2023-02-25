@@ -9,7 +9,7 @@ SOFTWARE DEVELOPMENT ENGINEER @IOPEXTECH  || DevOps Engineer || Cloud facilitato
 
 about me :
 ------------------------------
-I strongly belive we the professionals students of technology need to learn and innovate. There is constant change in the technologies in the tech market where we need to update ourselves with. The only thing that is constant is change. Talking about me, I would call myself an intersection of developer and researcher. I like cloud development with GCP/AWS and sometimes web dev. I love trying out new technologies and update with modern tools helping our lives more easier. I would like to join any reputed company for future.
+I strongly belive we the professionals need to learn and innovate. There is constant change in the technologies in the tech market where we need to update ourselves with. The only thing that is constant is change. Talking about me, I would call myself a DevOps Engineer. I like DevOps development with GCP/AWS. I love trying out new technologies and update with modern tools helping our lives more easier. I would like to join any reputed company for future.
 
 other places you can find me ::
 ----------------------
