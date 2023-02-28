@@ -49,6 +49,8 @@ my website :
 - AWS CLOUD BASED CALCULATOR APP CONTINUOUS INTEGRATION PIPELINE [link](https://docs.google.com/document/d/1uvZAfrHwcBjAoOpFj5w71xMXf_VEp321tnoTon72gac/edit?usp=sharing)
 - DEPLOYED SERVERLESS APPLICATION USING AWS CLOUDFORMATION FOR PROVISIONING & DECOMMISSIONING OF INFRASTRUCTURE AS CODE  [link](https://docs.google.com/document/d/1G4wnbDoAf66s5_HxrnoCAjkV16QNKO31/edit?usp=sharing&ouid=101726868205112966296&rtpof=true&sd=true)
 
+These are the 4 serverless api's for your refernce : 1. https://kjpwfpudkj.execute-api.ap-northeast-1.amazonaws.com/kaam 2. https://kjpwfpudkj.execute-api.ap-northeast-1.amazonaws.com/kaam 3. https://kjpwfpudkj.execute-api.ap-northeast-1.amazonaws.com/kaam/{id} 4. https://kjpwfpudkj.execute-api.ap-northeast-1.amazonaws.com/
+
 #Organizational_Projects :
 -----------------------------------------------------
 - Climate Change API - An api which will fetch climate news from various websites .[Link](https://github.com/imprithwishghosh/Climate-change-api)
