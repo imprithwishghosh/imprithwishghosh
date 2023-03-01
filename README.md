@@ -1,7 +1,7 @@
 Hello there ! Am Prithish <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 ![](https://komarev.com/ghpvc/?username=imprithwishghosh)
 ----------------------------------------------------------
-SOFTWARE DEVELOPMENT ENGINEER @IOPEXTECH  || DevOps Engineer || Cloud facilitator @gdgcloudchennai || Udacity Ml -AWS scholar || Facebook Pytorch scholar || 150x Gcp Badges || SWE grad
+DevOps Engineer || Cloud facilitator @gdgcloudchennai || Udacity Ml -AWS scholar || Facebook Pytorch scholar || 150x Gcp Badges || SWE grad
 ----------------------------------------------------------
 <div align="center">
 <img src="https://raw.githubusercontent.com/RaghavK16/RaghavK16/master/octo.gif" alt="GitHub Logo" width="200" height="200" />
@@ -18,7 +18,6 @@ other places you can find me ::
 <a href="https://twitter.com/PrithishGhosh5" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a> 
 <a href="https://www.linkedin.com/in/prithish-ghosh-097207163/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://medium.com/@prithishghosh" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="https://www.instagram.com/why_not_prithwish/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:prithishghosh619@gmail.com">
 <img align="left" alt="akd's gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   </p>
@@ -48,6 +47,7 @@ my website :
 [LINK](https://github.com/imprithwishghosh/resume/blob/master/ansible%20.pdf)
 - AWS CLOUD BASED CALCULATOR APP CONTINUOUS INTEGRATION PIPELINE [link](https://docs.google.com/document/d/1uvZAfrHwcBjAoOpFj5w71xMXf_VEp321tnoTon72gac/edit?usp=sharing)
 - DEPLOYED SERVERLESS APPLICATION USING AWS CLOUDFORMATION FOR PROVISIONING & DECOMMISSIONING OF INFRASTRUCTURE AS CODE  [link](https://docs.google.com/document/d/1G4wnbDoAf66s5_HxrnoCAjkV16QNKO31/edit?usp=sharing&ouid=101726868205112966296&rtpof=true&sd=true)
+- NODEJS-TODO APPLICATION CI/CD AUTOMATION USING DOCKER ON AWS EC2 [link]()
 
 #Organizational_Projects :
 -----------------------------------------------------
@@ -69,19 +69,6 @@ University_Projects :
 - SRM Bazaar-Universiry 7th sem mini Project [View_Project](https://tinyurl.com/3xpnthm8) 
 - Final_Year_Major_Project [Encrypted Traffic analysis with entropy evaluation and Neural Networks](https://tinyurl.com/yw3vaepp)
 
-⚡Certifications : I have completed 10x Google Cloud Specializations⚡
-----------------------------------------------------------------------------------------
-
-- Security in Google Cloud Platform [coursera.org](https://coursera.org/share/f7203f91419e55c57ebe254fa0e88b9e)
-- Machine Learning with TensorFlow on Google Cloud Platform [coursera.org](https://coursera.org/share/949891095046e5dd85bdcd1a6228adea)
-- Cloud Engineering with Google Cloud [coursera.org](https://coursera.org/share/52f66f6cb991005d843232b0f2148a10)
-- Architecting Hybrid Cloud Infrastructure with Anthos [coursera.org](https://coursera.org/share/a9861901b667b5225e3b58d452d396bb)
-- Architecting with Google Kubernetes Engine [coursera.org](https://coursera.org/share/64e642117f787fd33c5156b72918869b)
-- Architecting with Google Compute Engine [coursera.org](https://coursera.org/share/b207f42a9c208965fa0222b75b0447d4)
-- From Data to Insights with Google Cloud Platform [coursera.org](https://coursera.org/share/3c0b210847bb9eec7df4fe7a579042b8)
-- Cloud Architecture with Google Cloud [coursera.org](https://coursera.org/share/91bcadc2c64b51a991efc32c46dafc51)
-- Networking in Google Cloud [coursera.org](https://coursera.org/share/9b504fbb4776b50d65ba744b13c3f6ab)
-- Developing Applications with Google Cloud Platform [coursera.org](https://coursera.org/share/98b1a3f79788e58519d793b5243e104a)
 
 Accomplishments :
 ------------------
