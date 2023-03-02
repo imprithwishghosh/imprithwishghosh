@@ -6,6 +6,7 @@
 </p>
 
 other places you can find me :
+-------------------------------
 
 <p>
 <a href="https://github.com/imprithwishghosh" target="_blank">
@@ -21,6 +22,7 @@ other places you can find me :
 </p>
 
 Qwiklab Profile: 
+----------------
 
 <p>
 
@@ -30,10 +32,12 @@ Qwiklab Profile:
 <br/>
 
 website :
+---------
 
 [![Website](https://www.vectorlogo.zone/logos/webflow/webflow-ar21.svg)](https://imprithishg.netlify.app/)<br/>
 
 Technologies & Tools I have explored :
+--------------------------------------
 
 <a href="https://www.linux.org/" target="_blanfalse" />
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"  height="70" />
@@ -79,6 +83,7 @@ Technologies & Tools I have explored :
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imprithwishghosh&show_icons=true&&theme=radical" alt="imprithwishghosh" /></p>
 
 DevOps_Projects : 
+-----------------
 
 - DEPLOYING. DJANGO TODO APPLICATION INTO AWS USING DOCKER IMAGE & AUTOMATE CI / CD PIPELINE [link](https://github.com/imprithwishghosh/resume/blob/master/Devops%20Project%201%20_.pdf)
 - AN ANSIBLE MASTER NODE MODULE AUTOMATES , CREATE USER & FILES INTO VARIOUS WORKER NODE USING ANSIBLE PLAYBOOK YAML SCRIPT
