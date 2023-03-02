@@ -1,44 +1,80 @@
-Hello there ! Am Prithish <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-![](https://komarev.com/ghpvc/?username=imprithwishghosh)
-----------------------------------------------------------
-DevOps Engineer || Cloud facilitator @gdgcloudchennai || Udacity Ml -AWS scholar || Facebook Pytorch scholar || 150x Gcp Badges || SWE grad
-----------------------------------------------------------
-<div align="center">
-<img src="https://raw.githubusercontent.com/RaghavK16/RaghavK16/master/octo.gif" alt="GitHub Logo" width="200" height="200" />
-</div>
+<h1 align="center">Hi , I'm Prithish <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-about me :
-------------------------------
-I strongly belive we the professionals students of technology need to learn and innovate. There is constant change in the technologies in the tech market where we need to update ourselves with. The only thing that is constant is change. Talking about me, I would call myself an intersection of developer and researcher. I like cloud development with GCP/AWS and sometimes web dev. I love trying out new technologies and update with modern tools helping our lives more easier. I would like to join any reputed company for future.
+<p align="center" >
+    Hello! My name is <b>Prithish Ghosh</b> and I am a DevOps enthusiast  who got interest in cloud computing as well . I am always ready to learn something new that are related to DevOps.
+  <br/>
+</p>
 
 other places you can find me ::
 ----------------------
- <p>
-<a href="https://github.com/imprithwishghosh" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>
-<a href="https://twitter.com/PrithishGhosh5" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a> 
-<a href="https://www.linkedin.com/in/prithish-ghosh-097207163/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://medium.com/@prithishghosh" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/></a>
+<p>
+<a href="https://github.com/imprithwishghosh" target="_blank">
+<img alt="Github" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" height="70" /></a>
+<a href="https://twitter.com/PrithishGhosh5" target="_blank"><img alt="Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg" height="70" /></a> 
+<a href="https://medium.com/@prithishghosh" target="_blank"><img alt="Medium" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" height="70" /></a>
 <a href="mailto:prithishghosh619@gmail.com">
-<img align="left" alt="akd's gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  </p>
+<img align="left" alt="akd's gmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" height="70" /></a>
+<a href="https://www.linkedin.com/in/prithish-ghosh-097207163/" target="_blank">
+<img alt ="Linkedin" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" height="70" /></a>
+<a href="https://www.prithg.hashnode.dev" target="_blank">
+<img alt ="hashnode" src="https://www.vectorlogo.zone/logos/hashnode/hashnode-ar21.svg" height="70" /></a>
+</p>
 
-coding Profiles: 
+Qwiklab Profile: 
 -------------------------
 <p>
-<a href="https://www.hackerrank.com/prithishghosh619" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+
   <a href="https://www.qwiklabs.com/public_profiles/78282992-f53a-4ae3-aae8-c594e566f6cf">
 <img align="left" alt="akd's Qwiklab" src="https://img.shields.io/badge/Qwiklabs-F5CD0E?style=for-the-badge&logo=Qwiklabs&logoColor=black" /></a>
-<a href="https://www.codechef.com/users/prithishghosh6">
-<img align="left" alt="akd's codechef" src="https://img.shields.io/badge/Codechef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
-  </p>
+</p>
+<br/>
 
+website :
+--------------------------
+[![Website](https://www.vectorlogo.zone/logos/webflow/webflow-ar21.svg)](https://imprithishg.netlify.app/)<br/>
 Technologies & Tools I have explored :
 --------------------------------------
-<p><a href="#" target="_blank"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a> <a href="#" target="_blank"><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a> <a href="#" target="_blank"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>  <a href="#" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a> <a href="#" target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a> <a href="#" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a> <a href="#" target="_blank"><img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/></a> <a href="#" target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a> <a href="#" target="_blank"><img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/></a> <a href="#" target="_blank"><img alt="NetBeans IDE" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/></a> <a href="#" target="_blank"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/></a> <a href="#" target="_blank"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></a> <a href="#" target="_blank"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a> <a href="#" target="_blank"><img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/></a> <a href="#" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a></p>
-
-my website :
---------------------------
-[![Website](https://img.shields.io/website?label=Click->me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://imprithishg.netlify.app/)<br/>
+<a href="https://www.linux.org/" target="_blanfalse" />
+    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"  height="90" />
+  </a>
+   <a href="https://aws.amazon.com/" target="_blank" >
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"  height="90" />
+  </a>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="75" />
+  </a>
+  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
+  </a>
+  <a href="https://www.terraform.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="120" />
+  </a>
+   </a>
+    <a href="https://www.jenkins.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/ll.png" height="90" />
+  </a>
+  <a href="https://www.ansible.com/" target="_blank" >
+    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"  height="90" />
+  </a>
+ </a>
+    <a href="https://pages.github.com/?(null)" target="_blank" >
+   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="90" />
+  </a>
+ </a>
+  <a href="https://code.visualstudio.com/" target="_blank" >
+    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"  height="80" /> 
+  </a>
+  <a href="https://grafana.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="60" />&nbsp;&nbsp;
+  </a>
+  <a href="https://prometheus.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
+  </a>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imprithwishghosh&show_icons=true&&theme=radical" alt="imprithwishghosh" /></p>
 
 #DevOps_Projects : 
 ---------------------------------------------
@@ -48,38 +84,3 @@ my website :
 - AWS CLOUD BASED CALCULATOR APP CONTINUOUS INTEGRATION PIPELINE [link](https://docs.google.com/document/d/1uvZAfrHwcBjAoOpFj5w71xMXf_VEp321tnoTon72gac/edit?usp=sharing)
 - DEPLOYED SERVERLESS APPLICATION USING AWS CLOUDFORMATION FOR PROVISIONING & DECOMMISSIONING OF INFRASTRUCTURE AS CODE  [link](https://docs.google.com/document/d/1G4wnbDoAf66s5_HxrnoCAjkV16QNKO31/edit?usp=sharing&ouid=101726868205112966296&rtpof=true&sd=true)
 - NODEJS-TODO APPLICATION CI/CD AUTOMATION USING DOCKER ON AWS EC2 [link]()
-
-#Organizational_Projects :
------------------------------------------------------
-- Climate Change API - An api which will fetch climate news from various websites .[Link](https://github.com/imprithwishghosh/Climate-change-api)
-
-University_Projects :
-----------------------------------------
-
-- sample functional calculator [View_Project](https://imprithwishghosh.github.io/JS-calculator/)
-- Neomorphism UI icons for my social media [View_Project](https://imprithwishghosh.github.io/Neomorphism-UI-/)
-- My personal website [View_Project](https://imprithwishghosh.github.io/Portfolio/)
-- Code to login UI-1 [View_Project](https://imprithwishghosh.github.io/UI-TO-CODE/page1.html)
-- Code to login UI-2 [View_Project](https://imprithwishghosh.github.io/UI-TO-CODE/page2.html)
-- Online banking system (php,dbms,mysql) [View_Project](https://github.com/imprithwishghosh/online-banking-system)
-- University international conference website make-1 [View_Project](https://imprithwishghosh.github.io/project2/)
-- Minor Project - Detecting app's security vulnerabilities on Google Cloud [View_Project](https://tinyurl.com/y3vb4vos)
-- The Bluebox device -MDD project [View_Project](https://tinyurl.com/yj428yrk)
-- Sample Resume [View_Project](https://imprithwishghosh.github.io/web-resume-165/)
-- SRM Bazaar-Universiry 7th sem mini Project [View_Project](https://tinyurl.com/3xpnthm8) 
-- Final_Year_Major_Project [Encrypted Traffic analysis with entropy evaluation and Neural Networks](https://tinyurl.com/yw3vaepp)
-
-
-Accomplishments :
-------------------
-
-|   Name                  |                 Description                                               |
-|-------------------------|---------------------------------------------------------------------------|
-|srm care level 3 cpp     |  completed level 1,leve2,level3 cpp language labs more than 100+ questions|
-|majulah google cloud platform winner (s1 + s2)  | completed 15+quets on GCP->google cloud singapore  |
-|google cloud platform quest leader|completed 20+quests with 100labs on google cloud platform         |
-|google cloud dev-jam'20  |top 20 performer gcp competition                                           |
-|100x qwiklabs google cloud verified badges | [qwiklabs.com](https://www.qwiklabs.com/public_profiles/78282992-f53a-4ae3-aae8-c594e566f6cf)|
-|google cloudready facilitation program'20|completed 18+quests & skill badges on google cloud platform|
-
-
