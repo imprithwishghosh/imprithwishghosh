@@ -5,8 +5,8 @@
   <br/>
 </p>
 
-other places you can find me ::
-----------------------
+other places you can find me :
+
 <p>
 <a href="https://github.com/imprithwishghosh" target="_blank">
 <img alt="Github" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" height="70" /></a>
@@ -21,7 +21,7 @@ other places you can find me ::
 </p>
 
 Qwiklab Profile: 
--------------------------
+
 <p>
 
   <a href="https://www.qwiklabs.com/public_profiles/78282992-f53a-4ae3-aae8-c594e566f6cf">
@@ -30,55 +30,56 @@ Qwiklab Profile:
 <br/>
 
 website :
---------------------------
+
 [![Website](https://www.vectorlogo.zone/logos/webflow/webflow-ar21.svg)](https://imprithishg.netlify.app/)<br/>
+
 Technologies & Tools I have explored :
---------------------------------------
+
 <a href="https://www.linux.org/" target="_blanfalse" />
-    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"  height="90" />
+    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"  height="70" />
   </a>
    <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"  height="90" />
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"  height="70" />
   </a>
   </a>
   <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="70" /> 
   </a>
   <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="75" />
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="70" />
   </a>
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="70" />
   </a>
   <a href="https://www.terraform.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="120" />
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="70" />
   </a>
    </a>
     <a href="https://www.jenkins.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/ll.png" height="90" />
+    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/ll.png" height="70" />
   </a>
   <a href="https://www.ansible.com/" target="_blank" >
-    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"  height="90" />
+    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"  height="70" />
   </a>
  </a>
     <a href="https://pages.github.com/?(null)" target="_blank" >
-   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="90" />
+   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="70" />
   </a>
  </a>
   <a href="https://code.visualstudio.com/" target="_blank" >
-    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"  height="80" /> 
+    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"  height="70" /> 
   </a>
   <a href="https://grafana.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="80" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="70" />&nbsp;&nbsp;
   </a>
   <a href="https://prometheus.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="80" />
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="70" />
   </a>
   
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imprithwishghosh&show_icons=true&&theme=radical" alt="imprithwishghosh" /></p>
 
-#DevOps_Projects : 
----------------------------------------------
+DevOps_Projects : 
+
 - DEPLOYING. DJANGO TODO APPLICATION INTO AWS USING DOCKER IMAGE & AUTOMATE CI / CD PIPELINE [link](https://github.com/imprithwishghosh/resume/blob/master/Devops%20Project%201%20_.pdf)
 - AN ANSIBLE MASTER NODE MODULE AUTOMATES , CREATE USER & FILES INTO VARIOUS WORKER NODE USING ANSIBLE PLAYBOOK YAML SCRIPT
 [LINK](https://github.com/imprithwishghosh/resume/blob/master/ansible%20.pdf)
