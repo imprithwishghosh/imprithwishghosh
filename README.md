@@ -96,7 +96,6 @@ DevOps_Projects :
 Certificatios :
 ---------------
 <details>
-  <summary><b>Oracle Cloud Infrastructure 2023 Certified Foundations Associate/b></summary>
-  <img src="https://catalog-education.oracle.com/pls/certview/sharebadge?id=25966EE33957FBAC161BC3E0DA7B29B2C3D8B776770B2A896ABAEFD78ABD18B7"
-</p>
+  <summary><b>Oracle Cloud Infrastructure 2023 Certified Foundations Associate</b></summary>
+  <img src="https://catalog-education.oracle.com/pls/certview/sharebadge?id=25966EE33957FBAC161BC3E0DA7B29B2C3D8B776770B2A896ABAEFD78ABD18B7/"
   </details>
