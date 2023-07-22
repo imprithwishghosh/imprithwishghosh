@@ -93,9 +93,9 @@ DevOps_Projects :
 :white_check_mark: NODEJS-TODO APPLICATION CI/CD AUTOMATION USING DOCKER ON AWS EC2 [link]() <br>
 :white_check_mark: DEPLOYED A WEBSITE INTO EC2 VIA ANSIBLE PLAYBOOK AS A PRODUCTION SERVER.[link](https://prithg.hashnode.dev/deploy-website-into-ec2-via-ansible-playbook-as-a-production-server)
 
-Certificatios :
+Certificates :
 ---------------
 <details>
-  <summary><b>Oracle Cloud Infrastructure 2023 Certified Foundations Associate</b></summary>
-  <img src="https://catalog-education.oracle.com/pls/certview/sharebadge?id=25966EE33957FBAC161BC3E0DA7B29B2C3D8B776770B2A896ABAEFD78ABD18B7/"
+  <summary><b><href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=25966EE33957FBAC161BC3E0DA7B29B2C3D8B776770B2A896ABAEFD78ABD18B7">Oracle Cloud Infrastructure 2023 Certified Foundations Associate</b></summary>
+  <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCIF2023CA.png"
   </details>
