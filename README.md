@@ -74,10 +74,13 @@ Technologies & Tools I have explored :
     <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"  height="70" /> 
   </a>
   <a href="https://grafana.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="70" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="70" />
   </a>
   <a href="https://prometheus.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="70" />
+  </a>
+  <a href="https://seeklogo.com/vector-logo/428028/github-actions/" target="_blank">
+  <img src ="https://seeklogo.com/images/G/github-actions-logo-031704BDC6-seeklogo.com.png" height= "70" />
   </a>
   
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imprithwishghosh&show_icons=true&&theme=radical" alt="imprithwishghosh" /></p>
