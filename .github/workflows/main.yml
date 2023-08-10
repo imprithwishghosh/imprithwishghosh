@@ -1,20 +1,28 @@
-name: Github-readme
+name: Check if PR merged and closed
 on:
   push:
-   branches:
-     - master
-     - main
-  pull_request:
-    types:
-      - closed      
+    branches:
+      - main
+
 jobs:
-  build:
+  check-pr-merged:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
-    - name: Check if PR is merged into main/master branch
-      if: >
-          contains(github.event.head_commit.message) ||
-          github.event_name == 'pull_request' && github.event.pull_request.merged == true
-      run: |
-        echo "PR HAS BEEN MERGED"
+      - name: Check if PR merged
+        uses: actions/github-script@v3
+        with:
+          script: |
+            import json
+
+            # Get the PR details
+            pr_details = json.loads(github.event.inputs['payload'])
+
+            # Check if the PR is merged
+            merged = pr_details['pull_request']['merged']
+
+            # Check if the PR is closed
+            closed = pr_details['pull_request']['closed']
+
+            # If the PR is merged and closed, print "PR merged"
+            if merged and closed:
+                print('PR merged')
