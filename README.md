@@ -82,9 +82,12 @@ Technologies & Tools I have explored :
   <a href="https://seeklogo.com/vector-logo/428028/github-actions/" target="_blank">
   <img src ="https://seeklogo.com/images/G/github-actions-logo-031704BDC6-seeklogo.com.png" height= "70" />
   </a>
-  
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imprithwishghosh&show_icons=true&&theme=radical" alt="imprithwishghosh" /></p>
 
+Details of Github :
+-------------------
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imprithwishghosh&theme=darcula)  
+ 
 DevOps_Projects : 
 -----------------
 
