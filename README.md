@@ -94,8 +94,8 @@ DevOps_Projects :
 ✅ AWS CLOUD BASED CALCULATOR APP CONTINUOUS INTEGRATION PIPELINE [link](https://docs.google.com/document/d/1uvZAfrHwcBjAoOpFj5w71xMXf_VEp321tnoTon72gac/edit?usp=sharing) <br>
 ✅ DEPLOYED SERVERLESS APPLICATION USING AWS CLOUDFORMATION FOR PROVISIONING & DECOMMISSIONING OF INFRASTRUCTURE AS CODE  [link](https://docs.google.com/document/d/1G4wnbDoAf66s5_HxrnoCAjkV16QNKO31/edit?usp=sharing&ouid=101726868205112966296&rtpof=true&sd=true) <br>
 ✅ NODEJS-TODO APPLICATION CI/CD AUTOMATION USING DOCKER ON AWS EC2 [link]() <br>
-✅ DEPLOYED A WEBSITE INTO EC2 VIA ANSIBLE PLAYBOOK AS A PRODUCTION SERVER.[link](https://prithg.hashnode.dev/deploy-website-into-ec2-via-ansible-playbook-as-a-production-server)
-✅ Deploy Portfolio website into AWS S3 using Github Actions. [link](https://prithg.hashnode.dev/deploy-portfolio-website-into-aws-s3-bucket)
+✅ DEPLOYED A WEBSITE INTO EC2 VIA ANSIBLE PLAYBOOK AS A PRODUCTION SERVER.[link](https://prithg.hashnode.dev/deploy-website-into-ec2-via-ansible-playbook-as-a-production-server) <br>
+✅ DEPLOY PORTFOLIO WEBSITE INTO AWS CLOUD S3 BUCKET USING GITHUB ACTIONS [link](https://prithg.hashnode.dev/deploy-portfolio-website-into-aws-s3-bucket)
 
 Certificates :
 ---------------
