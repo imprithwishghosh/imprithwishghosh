@@ -88,13 +88,14 @@ Technologies & Tools I have explored :
 DevOps_Projects : 
 -----------------
 
-:white_check_mark: DEPLOYING DJANGO TODO APPLICATION INTO AWS USING DOCKER IMAGE & AUTOMATE CI / CD PIPELINE [link](https://github.com/imprithwishghosh/resume/blob/master/Devops%20Project%201%20_.pdf) <br>
-:white_check_mark: AN ANSIBLE MASTER NODE MODULE AUTOMATES , CREATE USER & FILES INTO VARIOUS WORKER NODE USING ANSIBLE PLAYBOOK YAML SCRIPT
+✅ DEPLOYING DJANGO TODO APPLICATION INTO AWS USING DOCKER IMAGE & AUTOMATE CI / CD PIPELINE [link](https://github.com/imprithwishghosh/resume/blob/master/Devops%20Project%201%20_.pdf) <br>
+✅ AN ANSIBLE MASTER NODE MODULE AUTOMATES , CREATE USER & FILES INTO VARIOUS WORKER NODE USING ANSIBLE PLAYBOOK YAML SCRIPT
 [LINK](https://github.com/imprithwishghosh/resume/blob/master/ansible%20.pdf) <br>
-:white_check_mark: AWS CLOUD BASED CALCULATOR APP CONTINUOUS INTEGRATION PIPELINE [link](https://docs.google.com/document/d/1uvZAfrHwcBjAoOpFj5w71xMXf_VEp321tnoTon72gac/edit?usp=sharing) <br>
-:white_check_mark: DEPLOYED SERVERLESS APPLICATION USING AWS CLOUDFORMATION FOR PROVISIONING & DECOMMISSIONING OF INFRASTRUCTURE AS CODE  [link](https://docs.google.com/document/d/1G4wnbDoAf66s5_HxrnoCAjkV16QNKO31/edit?usp=sharing&ouid=101726868205112966296&rtpof=true&sd=true) <br>
-:white_check_mark: NODEJS-TODO APPLICATION CI/CD AUTOMATION USING DOCKER ON AWS EC2 [link]() <br>
-:white_check_mark: DEPLOYED A WEBSITE INTO EC2 VIA ANSIBLE PLAYBOOK AS A PRODUCTION SERVER.[link](https://prithg.hashnode.dev/deploy-website-into-ec2-via-ansible-playbook-as-a-production-server)
+✅ AWS CLOUD BASED CALCULATOR APP CONTINUOUS INTEGRATION PIPELINE [link](https://docs.google.com/document/d/1uvZAfrHwcBjAoOpFj5w71xMXf_VEp321tnoTon72gac/edit?usp=sharing) <br>
+✅ DEPLOYED SERVERLESS APPLICATION USING AWS CLOUDFORMATION FOR PROVISIONING & DECOMMISSIONING OF INFRASTRUCTURE AS CODE  [link](https://docs.google.com/document/d/1G4wnbDoAf66s5_HxrnoCAjkV16QNKO31/edit?usp=sharing&ouid=101726868205112966296&rtpof=true&sd=true) <br>
+✅ NODEJS-TODO APPLICATION CI/CD AUTOMATION USING DOCKER ON AWS EC2 [link]() <br>
+✅ DEPLOYED A WEBSITE INTO EC2 VIA ANSIBLE PLAYBOOK AS A PRODUCTION SERVER.[link](https://prithg.hashnode.dev/deploy-website-into-ec2-via-ansible-playbook-as-a-production-server)
+✅ Deploy Portfolio website into AWS S3 using Github Actions. [link](https://prithg.hashnode.dev/deploy-portfolio-website-into-aws-s3-bucket)
 
 Certificates :
 ---------------
