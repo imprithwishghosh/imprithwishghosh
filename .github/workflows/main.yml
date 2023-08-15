@@ -1,4 +1,4 @@
-name: Check PR Merged and Closed
+name: Check PR Merged and Closed on Github
 
 on:
   pull_request:
