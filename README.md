@@ -10,15 +10,15 @@ other places you can find me :
 
 <p>
 <a href="https://github.com/imprithwishghosh" target="_blank">
-<img alt="Github" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" height="70" /></a>
-<a href="https://twitter.com/PrithishGhosh5" target="_blank"><img alt="Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg" height="70" /></a> 
-<a href="https://medium.com/@prithishghosh" target="_blank"><img alt="Medium" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" height="70" /></a>
+<img alt="Github" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" height="50" /></a>
+<a href="https://twitter.com/PrithishGhosh5" target="_blank"><img alt="Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg" height="50" /></a> 
+<a href="https://medium.com/@prithishghosh" target="_blank"><img alt="Medium" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" height="50" /></a>
 <a href="mailto:prithishghosh619@gmail.com">
-<img align="left" alt="akd's gmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" height="70" /></a>
+<img align="left" alt="akd's gmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" height="50" /></a>
 <a href="https://www.linkedin.com/in/prithish-ghosh-097207163/" target="_blank">
-<img alt ="Linkedin" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" height="70" /></a>
+<img alt ="Linkedin" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" height="50" /></a>
 <a href="https://www.prithg.hashnode.dev" target="_blank">
-<img alt ="hashnode" src="https://www.vectorlogo.zone/logos/hashnode/hashnode-ar21.svg" height="70" /></a>
+<img alt ="hashnode" src="https://www.vectorlogo.zone/logos/hashnode/hashnode-ar21.svg" height="50" /></a>
 </p>
 
 Qwiklab Profile: 
