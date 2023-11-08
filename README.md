@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Prithish <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Prithish (AWS Community Builder) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center" >
     Hello! My name is <b>Prithish Ghosh</b> and I am a DevOps enthusiast  who got interest in cloud computing as well . I am always ready to learn something new that are related to DevOps.
@@ -19,6 +19,9 @@ other places you can find me :
 <img alt ="Linkedin" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" height="50" /></a>
 <a href="https://www.prithg.hashnode.dev" target="_blank">
 <img alt ="hashnode" src="https://www.vectorlogo.zone/logos/hashnode/hashnode-ar21.svg" height="50" /></a>
+
+<a href="aws_community_builder_directory" src="https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=Prithish&cb-cards.q_operator=AND">    
+<img alt = "aws_community_badge" src="https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2020/07/23/blog-thumbnail-AWS-Community-Builders.png" height="55">
 </p>
 
 Qwiklab Profile: 
