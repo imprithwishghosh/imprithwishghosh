@@ -86,6 +86,11 @@ Technologies & Tools I have explored :
   <img src ="https://seeklogo.com/images/G/github-actions-logo-031704BDC6-seeklogo.com.png" height= "70" />
   </a>
 
+  <a href="https://www.datadoghq.com" target="_blank" >
+  <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-ar21.svg" height= "70" />
+  </a>a
+  
+
 Details of Github :
 -------------------
   
