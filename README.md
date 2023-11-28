@@ -48,7 +48,6 @@ Technologies & Tools I have explored :
    <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"  height="70" />
   </a>
-  </a>
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="70" /> 
   </a>
@@ -88,7 +87,7 @@ Technologies & Tools I have explored :
 
   <a href="https://www.datadoghq.com" target="_blank" >
   <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-ar21.svg" height= "70" />
-  </a>a
+  </a>
   
 
 Details of Github :
