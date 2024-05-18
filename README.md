@@ -88,6 +88,19 @@ Technologies & Tools I have explored :
   <a href="https://www.datadoghq.com" target="_blank" >
   <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-ar21.svg" height= "70" />
   </a>
+
+  <a href="https://buildkite.com/" target="_blank" >
+  <img src="https://seeklogo.com/images/B/buildkite-logo-3D14F9856C-seeklogo.com.png" height="40" />
+  </a>
+
+  
+  <a href="https://cloud.google.com/" target="_blank" >
+  <img src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" height="70" />
+  </a>
+
+  <a href="https://www.terraform.io/" target="_blank" >
+  <img src="https://seeklogo.com/images/T/terraform-logo-CDD45E1CF7-seeklogo.com.png" height="60" />
+  </a>
   
 
 Details of Github :
