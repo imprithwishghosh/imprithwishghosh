@@ -58,8 +58,9 @@ Technologies & Tools I have explored :
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="70" />
   </a>
   <a href="https://www.terraform.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="70" />
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="90" />
   </a>
+  
    </a>
     <a href="https://www.jenkins.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/ll.png" height="70" />
@@ -96,10 +97,6 @@ Technologies & Tools I have explored :
   
   <a href="https://cloud.google.com/" target="_blank" >
   <img src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" height="70" />
-  </a>
-
-  <a href="https://www.terraform.io/" target="_blank" >
-  <img src="https://seeklogo.com/images/T/terraform-logo-CDD45E1CF7-seeklogo.com.png" height="60" />
   </a>
   
 
