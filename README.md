@@ -109,8 +109,8 @@ DevOps_Projects :
 -----------------
 
 ✅ DEPLOYING DJANGO TODO APPLICATION INTO AWS USING DOCKER IMAGE & AUTOMATE CI / CD PIPELINE [link](https://github.com/imprithwishghosh/resume/blob/master/Devops%20Project%201%20_.pdf) <br>
-✅ AN ANSIBLE MASTER NODE MODULE AUTOMATES , CREATE USER & FILES INTO VARIOUS WORKER NODE USING ANSIBLE PLAYBOOK YAML SCRIPT
-[LINK](https://github.com/imprithwishghosh/resume/blob/master/ansible%20.pdf) <br>
+✅ HIGHLY AVAILABLE K8'S CLUSTER && GAME APPLICATION DEPLOYMENT 
+[LINK](https://github.com/imprithwishghosh/Highly-Available-k8-s-cluster-/blob/master/Highly%20Available%20K8%E2%80%99s%20clusters%20and%20Game%20Application%20Deployment.pdf) <br>
 ✅ AWS CLOUD BASED CALCULATOR APP CONTINUOUS INTEGRATION PIPELINE [link](https://docs.google.com/document/d/1uvZAfrHwcBjAoOpFj5w71xMXf_VEp321tnoTon72gac/edit?usp=sharing) <br>
 ✅ DEPLOYED SERVERLESS APPLICATION USING AWS CLOUDFORMATION FOR PROVISIONING & DECOMMISSIONING OF INFRASTRUCTURE AS CODE  [link](https://docs.google.com/document/d/1G4wnbDoAf66s5_HxrnoCAjkV16QNKO31/edit?usp=sharing&ouid=101726868205112966296&rtpof=true&sd=true) <br>
 ✅ NODEJS-TODO APPLICATION CI/CD AUTOMATION USING DOCKER ON AWS EC2 [link]() <br>
