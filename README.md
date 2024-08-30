@@ -1,9 +1,18 @@
-<h1 align="center">Hi , I'm Prithish (AWS Community Builder) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Prithish (Ex- AWS Community Builder) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center" >
-    Hello! My name is <b>Prithish Ghosh</b> and I am a DevOps enthusiast  who got interest in cloud computing as well . I am always ready to learn something new that are related to DevOps.
+    Hello! My name is <b>Prithish Ghosh</b> I'm a Senior DevOps Engineer with a strong passion for automating processes, enhancing CI/CD pipelines, and optimizing cloud infrastructure. With a focus on efficiency and scalability, I work on building robust systems that support the continuous delivery of high-quality software.
   <br/>
 </p>
+
+What i do ?
+-------------
+
+:point_right: Infrastructure as Code (IaC): Expert in tools like Terraform and CloudFormation to define and provision infrastructure <br>
+:point_right: CI/CD Pipelines: Designing and managing end-to-end CI/CD pipelines using Jenkins, GitLab CI, and GitHub Actions <br>
+:point_right: Cloud Management: Proficient in AWS,Google Cloud Platform for deploying and maintaining applications <br>
+:point_right: Automation & Scripting: Automating repetitive tasks using Python, Bash, and Ansible to increase productivity <br>
+:point_right: Monitoring & Logging: Implementing observability tools like New Relic, Prometheus, and ELK Stack for real-time monitoring and logging
 
 other places you can find me :
 -------------------------------
