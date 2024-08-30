@@ -119,6 +119,5 @@ DevOps_Projects :
 
 Certificates :
 ---------------
-[OCI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=25966EE33957FBAC161BC3E0DA7B29B2C3D8B776770B2A896ABAEFD78ABD18B7) <br><br>
-<img src="https://brm-workforce.oracle.com/pdf/certview/images/OCIF2023CA.png" height="80">
+<img src="https://brm-workforce.oracle.com/pdf/certview/images/OCIF2023CA.png" height="120">  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/113936750" height="120">
 
