@@ -99,8 +99,10 @@ Technologies & Tools I have explored :
   <img src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" height="70" />
   </a>
 
+
   <a href="" target="_blank" >
-  <img src="https://th.bing.com/th/id/OIP.vzGIPwcxt2k06L3bxx_8ywAAAA?rs=1&pid=ImgDetMain" height="70" />
+  <img src="https://th.bing.com/th/id/OIP.ZL-IbbGSS0WM-EH7FYSEJwAAAA?rs=1&pid=ImgDetMain" height="70" />
+  </a>
   
 
 Details of Github :
