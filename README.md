@@ -133,5 +133,7 @@ DevOps_Projects :
 
 Certificates :
 ---------------
-<img src="https://brm-workforce.oracle.com/pdf/certview/images/OCIF2023CA.png" height="120">  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/113936750" height="120">
+<img src="https://brm-workforce.oracle.com/pdf/certview/images/OCIF2023CA.png" height="120"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/113936750" height="120">
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/114402681" height="120">
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/114418164" height="120">
 
