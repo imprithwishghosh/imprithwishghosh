@@ -131,7 +131,7 @@ DevOps_Projects :
 ✅ DEPLOYED A WEBSITE INTO EC2 VIA ANSIBLE PLAYBOOK AS A PRODUCTION SERVER.[link](https://prithg.hashnode.dev/deploy-website-into-ec2-via-ansible-playbook-as-a-production-server) <br>
 ✅ DEPLOY PORTFOLIO WEBSITE INTO AWS CLOUD S3 BUCKET USING GITHUB ACTIONS [link](https://prithg.hashnode.dev/deploy-portfolio-website-into-aws-s3-bucket)
 
-Certificates :
+Certifications :
 ---------------
 <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCIF2023CA.png" height="120"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/113936750" height="120">
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/114402681" height="120">
