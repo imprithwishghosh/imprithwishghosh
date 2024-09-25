@@ -113,7 +113,6 @@ Technologies & Tools I have explored :
   <img src="https://th.bing.com/th/id/OIP.ZL-IbbGSS0WM-EH7FYSEJwAAAA?rs=1&pid=ImgDetMain" height="70" />
   </a>
   
-
 Details of Github :
 -------------------
   
@@ -121,7 +120,7 @@ Details of Github :
  
 DevOps_Projects : 
 -----------------
-
+✅ ARGOSTACK: THREE-TIER KUBERNETES, HELM, AND OBSERVABILITY PIPELINE [link](https://prithg.hashnode.dev/argostack-three-tier-kubernetes-helm-and-observability-pipeline) <br>
 ✅ DEPLOYING DJANGO TODO APPLICATION INTO AWS USING DOCKER IMAGE & AUTOMATE CI / CD PIPELINE [link](https://github.com/imprithwishghosh/resume/blob/master/Devops%20Project%201%20_.pdf) <br>
 ✅ HIGHLY AVAILABLE K8'S CLUSTER && GAME APPLICATION DEPLOYMENT 
 [LINK](https://github.com/imprithwishghosh/Highly-Available-k8-s-cluster-/blob/master/Highly%20Available%20K8%E2%80%99s%20clusters%20and%20Game%20Application%20Deployment.pdf) <br>
