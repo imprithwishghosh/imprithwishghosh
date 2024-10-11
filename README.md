@@ -48,6 +48,13 @@ website :
 
 [![Website](https://www.vectorlogo.zone/logos/webflow/webflow-ar21.svg)](https://imprithishg.netlify.app/)<br/>
 
+Certifications :
+---------------
+<img src="https://brm-workforce.oracle.com/pdf/certview/images/OCIF2023CA.png" height="120"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/113936750" height="120"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/114402681" height="120">
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/114418164" height="120">
+<img src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" height="125">
+
+
 Technologies & Tools I have explored :
 --------------------------------------
 
@@ -112,11 +119,6 @@ Technologies & Tools I have explored :
   <a href="" target="_blank" >
   <img src="https://th.bing.com/th/id/OIP.ZL-IbbGSS0WM-EH7FYSEJwAAAA?rs=1&pid=ImgDetMain" height="70" />
   </a>
-  
-Details of Github :
--------------------
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imprithwishghosh&theme=darcula)  
  
 DevOps_Projects : 
 -----------------
@@ -129,10 +131,4 @@ DevOps_Projects :
 ✅ NODEJS-TODO APPLICATION CI/CD AUTOMATION USING DOCKER ON AWS EC2 [link]() <br>
 ✅ DEPLOYED A WEBSITE INTO EC2 VIA ANSIBLE PLAYBOOK AS A PRODUCTION SERVER.[link](https://prithg.hashnode.dev/deploy-website-into-ec2-via-ansible-playbook-as-a-production-server) <br>
 ✅ DEPLOY PORTFOLIO WEBSITE INTO AWS CLOUD S3 BUCKET USING GITHUB ACTIONS [link](https://prithg.hashnode.dev/deploy-portfolio-website-into-aws-s3-bucket)
-
-Certifications :
----------------
-<img src="https://brm-workforce.oracle.com/pdf/certview/images/OCIF2023CA.png" height="120"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/113936750" height="120">
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/114402681" height="120">
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/114418164" height="120">
 
