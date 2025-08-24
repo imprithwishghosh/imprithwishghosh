@@ -50,9 +50,15 @@ website :
 
 Certifications :
 ---------------
-<img src="https://brm-workforce.oracle.com/pdf/certview/images/OCIF2023CA.png" height="120"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/113936750" height="120"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/114402681" height="120">
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/114418164" height="120">
-<img src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" height="125">
+<p align="left">
+  <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCIF2023CA.png" height="220">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/113936750" height="220">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/114402681" height="220">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/114418164" height="220">
+  <img src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" height="225">
+  <img src="https://cc.sj-cdn.net/instructor/2k8whscfleard-harness-university/courses/31zux4a3hd3v9/promo-image.1750959659.png" height="240">
+</p>
+
 
 
 Technologies & Tools I have explored :
